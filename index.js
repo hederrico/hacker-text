@@ -18,5 +18,4 @@ document.querySelector('.word').onmouseover = event => {
 
         iterations += 1 / 4;
     }, 30);
-    
 }
